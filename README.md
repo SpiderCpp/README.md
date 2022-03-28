@@ -9,5 +9,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/180px-VB.NET_Logo.svg.png" alt="Visual Basic .NET" width="40" height="40">
 <br>
 <br>
-<h1>Who am I?</h1>
+<h1>Chi sono?</h1>
 Sono uno studente che nel tempo libero crea e scrive progetti...
